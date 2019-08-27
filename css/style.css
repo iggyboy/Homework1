@@ -39,8 +39,10 @@ body {
 }
 
     #bio-image {
+    height: 200px;
+    width: 200px;
     float: left;
-    margin: 24px;
+    margin-right: 24px;
 }
 a {
     color: #d21034;
